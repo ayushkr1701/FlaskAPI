@@ -1,4 +1,4 @@
-
+gunicorn==20.1.0
 aniso8601==6.0.0
 attrs==19.1.0
 Click==7.0
